@@ -1,0 +1,1 @@
+# standard_page_tempate_resturants
